@@ -19,9 +19,9 @@ INDICE
 
 8)Script de Insercion de Datos
 
-9)Informes generados en la base --
+9)Informes generados en la base
 
-10)Herramientas tecnologicas utilizadas --
+10)Herramientas tecnologicas utilizadas
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 1)Introduccion: Hola, lo que hice fue hacer un modelo de negocio de una cadena de supermercados, tratando de resolver problemas internos que pudieran surgir como falta de stock o que empleado trabaja donde.
@@ -61,3 +61,5 @@ i) abri el archivo sql con block de notas.
 j) reemplazo las comillas dobles por el campo que quiero insertar(ejemplo: producto).
 
 abro workbench y debajo de :use mydb; pego los datos a insertar.
+
+10) Las herramientas que utilice fueron sqlworkbench, block de notas, vscode, git, github
